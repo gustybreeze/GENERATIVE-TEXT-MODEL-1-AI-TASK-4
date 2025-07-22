@@ -139,6 +139,7 @@ Provide a prompt when prompted or edit the text_generator.py to insert your own 
 
 
 **Notes**
+
 Longer training corpus = better results.
 
 You can fine-tune a pre-trained GPT-like model (e.g., using Hugging Face Transformers) for advanced results.
@@ -147,6 +148,7 @@ Try using character-level vs word-level generation for different effects.
 
 
 **Conclusion**
+
 This task highlighted the creativity AI can bring into writing. By using LSTM-based models, we were able to teach the machine how to think in sequences, respond to prompts, and generate meaningful human-like content. It's a foundational step into advanced NLP domains like transformers and large language models.
 
 
