@@ -151,7 +151,7 @@ This task highlighted the creativity AI can bring into writing. By using LSTM-ba
 
 
 **Output**
-
+<img width="1918" height="981" alt="Image" src="https://github.com/user-attachments/assets/571e913a-ca99-4fbd-88d3-af4f7e6ce0f8" />
 
 
 
